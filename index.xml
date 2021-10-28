@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TGZ blog</title>
-    <link>http://example.org/</link>
+    <link>https://sunnnnnner.github.io/blog/</link>
     <description>Recent content on TGZ blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Oct 2021 15:14:10 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Oct 2021 15:14:10 +0800</lastBuildDate><atom:link href="https://sunnnnnner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
-      <link>http://example.org/post/test1/</link>
+      <link>https://sunnnnnner.github.io/blog/post/test1/</link>
       <pubDate>Thu, 28 Oct 2021 15:14:10 +0800</pubDate>
       
-      <guid>http://example.org/post/test1/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/test1/</guid>
       <description>
         
           
@@ -22,10 +22,10 @@
     
     <item>
       <title>Test</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://sunnnnnner.github.io/blog/post/test/</link>
       <pubDate>Thu, 28 Oct 2021 15:14:07 +0800</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/test/</guid>
       <description>
         
           
@@ -35,10 +35,10 @@
     
     <item>
       <title>One</title>
-      <link>http://example.org/post/one/</link>
+      <link>https://sunnnnnner.github.io/blog/post/one/</link>
       <pubDate>Thu, 28 Oct 2021 15:13:21 +0800</pubDate>
       
-      <guid>http://example.org/post/one/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/one/</guid>
       <description>
         
           
@@ -48,10 +48,10 @@
     
     <item>
       <title>Using Notices</title>
-      <link>http://example.org/post/notices/</link>
+      <link>https://sunnnnnner.github.io/blog/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/notices/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/notices/</guid>
       <description>
         
           &lt;p&gt;The &amp;ldquo;Notices&amp;rdquo; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
@@ -118,7 +118,7 @@ This is a standard &amp;quot;note&amp;quot; style.
     &lt;div class=&#34;label&#34;&gt;Productivity Booster!&lt;/div&gt;
     &lt;p&gt;If you&amp;rsquo;re using VS Code for your editing, copy the &lt;code&gt;.vscode\clarity.code-snippets&lt;/code&gt; file into a &lt;code&gt;.vscode&lt;/code&gt; root folder on your repo.  This will enable you to type
 &lt;code&gt;note&lt;/code&gt; then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; then choose with up/down arrows which flavor notice you want, then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; again to provide a title, then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; to add your content!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://example.org/images/Note-Snippet.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sunnnnnner.github.io/blog/images/Note-Snippet.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;To use the snippet, you need to first &lt;strong&gt;enable quickSuggestions for Markdown&lt;/strong&gt; (one time only):&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Go to &lt;code&gt;Preferences-&amp;gt;Settings&lt;/code&gt; then search for &lt;code&gt;quickSuggestions&lt;/code&gt;&lt;/li&gt;
@@ -141,14 +141,14 @@ This is a standard &amp;quot;note&amp;quot; style.
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>http://example.org/post/markdown-syntax.pt/</link>
+      <link>https://sunnnnnner.github.io/blog/post/markdown-syntax.pt/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/markdown-syntax.pt/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/markdown-syntax.pt/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Artigo original: http://example.org/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;Artigo original: https://sunnnnnner.github.io/blog/post/markdown-syntax/&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
@@ -295,10 +295,10 @@ This is a standard &amp;quot;note&amp;quot; style.
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://example.org/post/markdown-syntax/</link>
+      <link>https://sunnnnnner.github.io/blog/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/markdown-syntax/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/markdown-syntax/</guid>
       <description>
         
           &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
@@ -447,10 +447,10 @@ This is a standard &amp;quot;note&amp;quot; style.
     
     <item>
       <title>Rich Content</title>
-      <link>http://example.org/post/rich-content/</link>
+      <link>https://sunnnnnner.github.io/blog/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/rich-content/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/rich-content/</guid>
       <description>
         
           &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
@@ -538,10 +538,10 @@ This is a standard &amp;quot;note&amp;quot; style.
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://example.org/post/placeholder-text/</link>
+      <link>https://sunnnnnner.github.io/blog/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/placeholder-text/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/placeholder-text/</guid>
       <description>
         
           &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
@@ -573,10 +573,10 @@ This is a standard &amp;quot;note&amp;quot; style.
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://example.org/post/math-typesetting/</link>
+      <link>https://sunnnnnner.github.io/blog/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/math-typesetting/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/math-typesetting/</guid>
       <description>
         
           &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
@@ -607,10 +607,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Emoji Support</title>
-      <link>http://example.org/post/emoji-support/</link>
+      <link>https://sunnnnnner.github.io/blog/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/emoji-support/</guid>
+      <guid>https://sunnnnnner.github.io/blog/post/emoji-support/</guid>
       <description>
         
           &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
